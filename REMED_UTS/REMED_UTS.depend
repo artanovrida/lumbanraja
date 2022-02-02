@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1643798290 source:d:\c++\struktur data\remed_uts\main.cpp
+	<iostream>
+	"REMED_UTS.h"
+
+1643795775 d:\c++\struktur data\remed_uts\remed_uts.h
+	<iostream>
+
+1643798408 source:d:\c++\struktur data\remed_uts\remed_uts.cpp
+	"REMED_UTS.h"
+	<iostream>
+
